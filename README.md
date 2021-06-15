@@ -13,4 +13,4 @@ It demostrates statistics in between the debators such as states,donators and vo
 
 ## Authors
 * [Iasonas Makrugiannis](https://github.com/iasonasma) - Coding & Analysis -
-* [Panagiotis Louridas] (https://github.com/louridas) - In charge professor - 
+* [Panagiotis Louridas](https://github.com/louridas) - In charge professor - 
